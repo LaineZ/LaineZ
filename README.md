@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**LaineZ/LaineZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 140bpmdubstep (LaineZ) lone coder from Volgograd, Russia.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Blender, Rust, C#, Godot Engine
+- 🔭 I’m currently part of [GitLab #CC.RU](https://gitlab.com/cc-ru/) group.
+- 📫 How to reach me: Email specified in my profile!
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other related to me links:
+
+Soundcloud: https://soundcloud.com/laine-z
+
+Bandcamp: https://synthfailture.bandcamp.com/
+
+lib.rs profile: https://lib.rs/~lainez
+
+## My stats
+
+[![Lainez GitHub stats](https://github-readme-stats.vercel.app/api?username=LaineZ)](https://github.com/LaineZ/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaineZ&layout=compact)](https://github.com/LaineZ/github-readme-stats)
