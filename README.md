@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm an 140bpmdubstep (LaineZ) programmer. Currently living in Volgograd, Russia.
-My website: https://bpm140.xyz
 
 
 - 🌱 I’m currently learning Blender, Rust, C#, Godot Engine
